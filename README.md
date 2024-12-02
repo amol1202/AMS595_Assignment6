@@ -72,8 +72,10 @@ The assignment is structured to:
 - Train Accuracy: 88.12%
 - Test Accuracy: 59.18%
 - Misclassified Images: 20
+- Misclassified Indices: [ 2  3  4  7  9 10 11 15 17 19 23 25 28 32 35 36 37 40 42 44]
 
 #### Modified Dataset
 - Train Accuracy: 90.30%
 - Test Accuracy: 56.82%
 - Misclassified Images: 19
+- Misclassified Indices: [ 2  4  5  6  8  9 10 12 14 18 20 23 27 30 31 32 35 37 39]
