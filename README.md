@@ -1,8 +1,8 @@
 # Python Assignment 3
 
-This repository contains the solution to Python Assignment 3, which explores a variety of numerical methods and machine learning algorithms, including Gradient Descent, Linear Regression, Logistic Regression, and Image Classification.
+This repository contains the solution to Assignment 6, which explores a variety of numerical methods and machine learning algorithms, including Gradient Descent, Linear Regression, Logistic Regression, and Image Classification.
 
-## Objectives
+<!-- ## Objectives
 
 The assignment is structured to:
 
@@ -16,32 +16,32 @@ The assignment is structured to:
 ### 1. Good Presentation of Code and Outputs (10 pts)
 - Ensure well-commented code.
 - Add titles, legends, and axis labels for plots.
-- Divide code into logical blocks for better readability.
+- Divide code into logical blocks for better readability. -->
 
-### 2. Gradient Descent Implementation (60 pts)
-- Function: \(f(x) = \sqrt{x^2 + 5}\)
+### 2. Gradient Descent Implementation
+- Function: `f(x) = sqrt{x^2 + 5}`
 - Tasks:
   - Derive and plot the function.
   - Implement Gradient Descent with multiple step sizes.
   - Analyze and visualize convergence rates.
-- **Sample Output:**
+- **Output:**
   ![Gradient Descent Example](results/linear_regression_gradientDescent.png)
 
-### 3. Linear Regression (30 pts)
+### 3. Linear Regression
 - Generate synthetic 2D data.
 - Perform linear regression using the normal equation.
 - Plot data and the regression plane.
-- **Sample Output:**
+- **Output:**
   ![Linear Regression Plot](results/linear_regression_plane.png)
 
-### 4. Logistic Regression (20 pts)
+### 4. Logistic Regression
 - Fine-tune learning rate and epochs.
 - Add meaningful comments to the provided logistic regression code.
-- **Sample Output:**
+- **Output:**
   ![Logistic Regression Example](results/logistic_boundary_train.png)
   ![Logistic Regression Example](results/logistic_boundary_train.png)
 
-### 5. Image Binary Classification (30 pts)
+### 5. Image Binary Classification
 - Implement a binary classification model.
 - Analyze and display misclassified test cases.
 - Re-train and evaluate the model using a modified dataset.
@@ -51,7 +51,7 @@ The assignment is structured to:
   ![Misclassified Images](results/image2.png)
   ![Misclassified Images](results/image3.png)
 
-## Results Summary
+## Performance Summary
 
 ### Gradient Descent
 - Final \(x_T\) for various step sizes:
@@ -68,6 +68,10 @@ The assignment is structured to:
 - Test Accuracy: 100%
 
 ### Image Classification
-- Training Accuracy: 88%
-- Test Accuracy: 100%
-- Misclassified examples displayed.
+Original Dataset - Train Accuracy: 0.8812
+Original Dataset - Test Accuracy: 0.5918
+Misclassified images: 20
+
+Modified Dataset - Train Accuracy: 0.9030
+Modified Dataset - Test Accuracy: 0.5682
+Misclassified images: 19
