@@ -54,7 +54,7 @@ The assignment is structured to:
 ## Performance Summary
 
 ### Gradient Descent
-- Final \(x_T\) for various step sizes:
+- Final `x_T` for various step sizes:
   - \(0.1\): 5.22
   - \(0.5\): 0.0007
   - \(1.0\): ~0
@@ -68,10 +68,10 @@ The assignment is structured to:
 - Test Accuracy: 100%
 
 ### Image Classification
-Original Dataset - Train Accuracy: 0.8812
-Original Dataset - Test Accuracy: 0.5918
-Misclassified images: 20
+- Original Dataset - Train Accuracy: 0.8812
+- Original Dataset - Test Accuracy: 0.5918
+- Misclassified images: 20
 
-Modified Dataset - Train Accuracy: 0.9030
-Modified Dataset - Test Accuracy: 0.5682
-Misclassified images: 19
+- Modified Dataset - Train Accuracy: 0.9030
+- Modified Dataset - Test Accuracy: 0.5682
+- Misclassified images: 19
