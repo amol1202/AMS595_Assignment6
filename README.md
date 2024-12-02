@@ -1,6 +1,6 @@
 # Python Assignment 3
 
-This repository contains the solution to Assignment 6, which explores a variety of numerical methods and machine learning algorithms, including Gradient Descent, Linear Regression, Logistic Regression, and Image Classification.
+This repository contains the solution to AMS 595 - Assignment 6, which explores a variety of numerical methods and machine learning algorithms, including Gradient Descent, Linear Regression, Logistic Regression, and Image Classification.
 
 <!-- ## Objectives
 
@@ -18,7 +18,7 @@ The assignment is structured to:
 - Add titles, legends, and axis labels for plots.
 - Divide code into logical blocks for better readability. -->
 
-### 2. Gradient Descent Implementation
+### Gradient Descent Implementation
 - Function: `f(x) = sqrt{x^2 + 5}`
 - Tasks:
   - Derive and plot the function.
@@ -27,21 +27,21 @@ The assignment is structured to:
 - **Output:**
   ![Gradient Descent Example](results/linear_regression_gradientDescent.png)
 
-### 3. Linear Regression
+### Linear Regression
 - Generate synthetic 2D data.
 - Perform linear regression using the normal equation.
 - Plot data and the regression plane.
 - **Output:**
   ![Linear Regression Plot](results/linear_regression_plane.png)
 
-### 4. Logistic Regression
+### Logistic Regression
 - Fine-tune learning rate and epochs.
 - Add meaningful comments to the provided logistic regression code.
 - **Output:**
   ![Logistic Regression Example](results/logistic_boundary_train.png)
   ![Logistic Regression Example](results/logistic_boundary_train.png)
 
-### 5. Image Binary Classification
+### Image Binary Classification
 - Implement a binary classification model.
 - Analyze and display misclassified test cases.
 - Re-train and evaluate the model using a modified dataset.
