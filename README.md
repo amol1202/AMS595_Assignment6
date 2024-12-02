@@ -45,8 +45,11 @@ The assignment is structured to:
 - Implement a binary classification model.
 - Analyze and display misclassified test cases.
 - Re-train and evaluate the model using a modified dataset.
-- **Sample Output:**
-  ![Misclassified Images](images/misclassified_examples.png)
+- **Misclassified images (Showing 4/20):**
+  ![Misclassified Images](results\image0.png)
+  ![Misclassified Images](results\image1.png)
+  ![Misclassified Images](results\image2.png)
+  ![Misclassified Images](results\image3.png)
 
 ## Results Summary
 
