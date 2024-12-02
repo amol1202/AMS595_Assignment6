@@ -68,10 +68,12 @@ The assignment is structured to:
 - Test Accuracy: 100%
 
 ### Image Classification
-- Original Dataset - Train Accuracy: 0.8812
-- Original Dataset - Test Accuracy: 0.5918
-- Misclassified images: 20
+#### Original Dataset
+- Train Accuracy: 88.12%
+- Test Accuracy: 59.18%
+- Misclassified Images: 20
 
-- Modified Dataset - Train Accuracy: 0.9030
-- Modified Dataset - Test Accuracy: 0.5682
-- Misclassified images: 19
+#### Modified Dataset
+- Train Accuracy: 90.30%
+- Test Accuracy: 56.82%
+- Misclassified Images: 19
