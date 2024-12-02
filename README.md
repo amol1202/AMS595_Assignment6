@@ -25,21 +25,21 @@ The assignment is structured to:
   - Implement Gradient Descent with multiple step sizes.
   - Analyze and visualize convergence rates.
 - **Sample Output:**
-  ![Gradient Descent Example](results\linear_regression_gradientDescent.png)
+  ![Gradient Descent Example](results/linear_regression_gradientDescent.png)
 
 ### 3. Linear Regression (30 pts)
 - Generate synthetic 2D data.
 - Perform linear regression using the normal equation.
 - Plot data and the regression plane.
 - **Sample Output:**
-  ![Linear Regression Plot](results\linear_regression_plane.png)
+  ![Linear Regression Plot](results/linear_regression_plane.png)
 
 ### 4. Logistic Regression (20 pts)
 - Fine-tune learning rate and epochs.
 - Add meaningful comments to the provided logistic regression code.
 - **Sample Output:**
-  ![Logistic Regression Example](results\logistic_boundary_train.png)
-  ![Logistic Regression Example](results\logistic_boundary_train.png)
+  ![Logistic Regression Example](results/logistic_boundary_train.png)
+  ![Logistic Regression Example](results/logistic_boundary_train.png)
 
 ### 5. Image Binary Classification (30 pts)
 - Implement a binary classification model.
