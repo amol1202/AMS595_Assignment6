@@ -1,4 +1,4 @@
-# Python Assignment 3
+# Python Assignment 6
 
 This repository contains the solution to AMS 595 - Assignment 6, which explores a variety of numerical methods and machine learning algorithms, including Gradient Descent, Linear Regression, Logistic Regression, and Image Classification.
 
